@@ -9,7 +9,3 @@ I'm a QA Software Tester from Warsaw, Poland.
 * 🎓 Recently I've been learning to use Playwright for automated tests on my Django app.
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="16" height="16" align="absmiddle" /> One of my dreams is to create a nomadic survival pixel-art game in Godot.
-
-<br>
-
-<img src="./profile_art.png" width="400" height="400" alt="profile landscape">
