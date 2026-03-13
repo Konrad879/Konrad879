@@ -1,1 +1,1 @@
-!(profile_desc.svg)
+![](profile_desc.svg)
